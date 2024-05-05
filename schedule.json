@@ -1,0 +1,302 @@
+{
+    "Monday": [
+        {
+            "id": 1,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "Compiler Design"
+        },
+        {
+            "id": 2,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "Compiler Design"
+        },
+        {
+            "id": 3,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Development Engineering"
+        },
+        {
+            "id": 4,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "Development Engineering"
+        },
+        {
+            "id": 5,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "Internet of Things"
+        },
+        {
+            "id": 6,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 7,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "Machine Learning"
+        },
+        {
+            "id": 8,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "Practical"
+        }
+    ],
+    "Tuesday": [
+        {
+            "id": 1,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "Compiler Design"
+        },
+        {
+            "id": 2,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "Compiler Design"
+        },
+        {
+            "id": 3,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Development Engineering"
+        },
+        {
+            "id": 4,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "Practical"
+        },
+        {
+            "id": 5,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "Practical"
+        },
+        {
+            "id": 6,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 7,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "Machine Learning"
+        },
+        {
+            "id": 8,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "Practical"
+        }
+    ],
+    "Wednesday": [
+        {
+            "id": 1,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "No Lecture"
+        },
+        {
+            "id": 2,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "Compiler Design"
+        },
+        {
+            "id": 3,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Development Engineering"
+        },
+        {
+            "id": 4,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "Practical"
+        },
+        {
+            "id": 5,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "Practical"
+        },
+        {
+            "id": 6,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 7,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "Machine Learning"
+        },
+        {
+            "id": 8,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "Practical"
+        }
+    ],
+    "Thursday": [
+        {
+            "id": 1,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "Compiler Design"
+        },
+        {
+            "id": 2,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "Compiler Design"
+        },
+        {
+            "id": 3,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Development Engineering"
+        },
+        {
+            "id": 4,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "Practical"
+        },
+        {
+            "id": 5,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "Practical"
+        },
+        {
+            "id": 6,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 7,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "Machine Learning"
+        },
+        {
+            "id": 8,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "Practical"
+        }
+    ],
+    "Friday": [
+        {
+            "id": 1,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "Compiler Design"
+        },
+        {
+            "id": 2,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "Internet of Things"
+        },
+        {
+            "id": 3,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Development Engineering"
+        },
+        {
+            "id": 4,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "Practical"
+        },
+        {
+            "id": 5,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "Practical"
+        },
+        {
+            "id": 6,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 7,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "Machine Learning"
+        },
+        {
+            "id": 8,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "Practical"
+        }
+    ],
+    "Saturday": [
+        {
+            "id": 1,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "Compiler Design"
+        },
+        {
+            "id": 2,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "Development Engineering"
+        },
+        {
+            "id": 3,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Development Engineering"
+        },
+        {
+            "id": 4,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "Internet of Things"
+        },
+        {
+            "id": 5,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "Compiler Design"
+        },
+        {
+            "id": 6,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 7,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "Machine Learning"
+        },
+        {
+            "id": 8,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "Practical"
+        }
+    ]
+}
