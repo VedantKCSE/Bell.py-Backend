@@ -9,13 +9,27 @@ CORS(app)
 with open('schedule.json', 'r') as file:
     time_periods = json.load(file)
 
-@app.route('/schedule')
+@app.route('/api/schedule')
 def get_schedule():
     return {
         "schedule": time_periods
     }
+    
+# Get todays schedule route
+@app.route('/api/today')
+def get_todays_schedule():
+    # Get the current day of the week
+    import datetime
+    today = datetime.datetime.today().strftime('%A')
+    
+    # Get the schedule for the current day
+    todays_schedule = time_periods.get(today)
+    
+    return {
+        "schedule": todays_schedule
+    }
 
-@app.route('/update-lecture/<int:id>', methods=['PUT'])
+@app.route('/api/update-lecture/<int:id>', methods=['PUT'])
 def update_lecture(id):
     global time_periods
     
